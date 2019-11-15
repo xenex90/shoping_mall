@@ -7,6 +7,12 @@
  - 이다정 : https://github.com/dajeonglee89
  - 이영민 : https://github.com/godgnb
  - 정지훈
+ 
+#### 개발환경
+ - java8
+ - tomcat9.0
+ - spring 3.x
+ - mysql(DB), HikariCP(DBCP)
 
 ### *고객(일반회원)*
 1. 온라인구매
